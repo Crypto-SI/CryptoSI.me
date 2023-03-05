@@ -1,0 +1,74 @@
+{
+    "skills":
+    [
+        {
+            "id": 1,
+            "name": "Investing",
+            "progress": "95%",
+            "progressActive": "95%"
+        },
+        {
+            "id": 2,
+            "name": "Management",
+            "progress": "92%",
+            "progressActive": "92%"
+        },
+        {
+            "id": 3,
+            "name": "Entrepreneurship",
+            "progress": "72%",
+            "progressActive": "72%"
+        },
+        {
+            "id": 4,
+            "name": "Tokenomics",
+            "progress": "81%",
+            "progressActive": "81%"
+        },
+        {
+            "id": 5,
+            "name": "Crypto Knowledge",
+            "progress": "91%",
+            "progressActive": "91%"
+        }
+    ],
+    "libraries":
+    [
+        {
+            "id": 1,
+            "names": "Solidity, Rust, Hardhat, Anchor"
+        },
+        {
+            "id": 2,
+            "names": "Web3.js, ethers.js, Alchemy"
+        },
+        {
+            "id": 3,
+            "names": "React.js, Vue.js, Angular, jQuery"
+        },
+        {
+            "id": 4,
+            "names": "Next.js, Nuxt.js, Quasar"
+        },
+        {
+            "id": 5,
+            "names": "React Native, Flutter"
+        },
+        {
+            "id": 6,
+            "names": "TailwindCSS, Sass"
+        },
+        {
+            "id": 7,
+            "names": "Node.js, Express.js, NestJS, Deno JS"
+        },
+        {
+            "id": 8,
+            "names": "Python, Golang, Laravel"
+        },
+        {
+            "id": 9,
+            "names": "Git, AWS, Jira, Firebase"
+        }
+    ]
+}

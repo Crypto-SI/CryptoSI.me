@@ -1,0 +1,81 @@
+{
+    "menus":
+    [
+        {
+            "id": 0,
+            "name": "All Categories",
+            "category": "All"
+        },
+        {
+            "id": 1,
+            "name": "Blockchain Development",
+            "category": "Blockchain"
+        },
+        {
+            "id": 2,
+            "name": "Web Development",
+            "category": "Web"
+        },
+        {
+            "id": 3,
+            "name": "App Development",
+            "category": "App"
+        },
+        {
+            "id": 4,
+            "name": "Game Development",
+            "category": "Game"
+        }
+    ],
+    "cards":
+    [
+        {
+            "id": 0,
+            "category": "Blockchain",
+            "image": "/images/projects/1.png",
+            "title": "PIVX",
+            "description": "Team member from 2016 till 2020 Governance Guru",
+            "link": "https://pivx.org/"
+        },
+        {
+            "id": 0,
+            "category": "Blockchain",
+            "image": "/images/projects/2.png",
+            "title": "Sentinel",
+            "description": "Advisor in 2018",
+            "link": "https://sentinel.co/"
+        },
+        {
+            "id": 1,
+            "category": "Bidify",
+            "image": "/images/projects/3.png",
+            "title": "Founder of innovate NFT Auction site",
+            "description": "ERC20 token auto generator website",
+            "link": "https://App.bidify.org/"
+        },
+        {
+            "id": 2,
+            "category": "Blockchain",
+            "image": "/images/projects/4.png",
+            "title": "RubySwap",
+            "description": "AMM DEX with added features for Ethergem chain",
+            "link": "https://exchange.rubyswap.finance/swap/"
+        },
+        {
+            "id": 3,
+            "category": "Blockchain",
+            "image": "/images/projects/5.png",
+            "title": "Smart Reach Youtube Channel",
+            "description": "Founded Crypto focused youtube channel",
+            "link": "https://www.youtube.com/@smartreach5326/videos"
+        },
+        {
+            "id": 4,
+            "category": "Blockchain",
+            "image": "/images/projects/6.png",
+            "title": "DAOWatch.blog",
+            "description": "DAO focused group with regular videos",
+            "link": "https://daowatch.blog/"
+        }
+    ]
+}

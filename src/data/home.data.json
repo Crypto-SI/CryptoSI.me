@@ -1,0 +1,35 @@
+{
+    "services":
+    [
+        {
+            "id": 1,
+            "title": "Advisor",
+            "description": "Get expert guidance on fundraising, marketing, and business development in the crypto industry from an experienced advisor with a proven track record of success."
+        },
+        {
+            "id": 2,
+            "title": "Video Interview",
+            "description": "Boost your online presence and showcase your expertise in the crypto industry with a professionally produced video interview featuring you as the expert."
+        },
+        {
+            "id": 3,
+            "title": "Software Development",
+            "description": "Develop custom blockchain solutions tailored to your specific needs, leveraging the latest technologies and best practices in software development."
+        },
+        {
+            "id": 4,
+            "title": "Recruiting",
+            "description": "Build a high-performing team of crypto experts with comprehensive recruiting services, including sourcing, screening, and candidate selection."
+        },
+        {
+            "id": 5,
+            "title": "Project Management",
+            "description": "Lead successful crypto projects from ideation to launch with comprehensive project management services, including team coordination, budget management, and quality assurance."
+        },
+        {
+            "id": 6,
+            "title": "Exchange Integration",
+            "description": "Seamlessly integrate your crypto project with leading exchanges, with expert assistance in navigating the complex requirements and regulations of exchange integration."
+        }
+    ]
+}

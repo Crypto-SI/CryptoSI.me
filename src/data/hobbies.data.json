@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "src": "/images/hobbies/hero-discord.png",
+        "title": "Video gaming",
+        "description": "A passionate gamer with a love for all types of games, from action-packed shooters to immersive RPGs.",
+        "width": 250,
+        "height": 250
+    },
+    {
+        "id": 1,
+        "src": "/images/hobbies/hero-guitar.png",
+        "title": "Music",
+        "description": "A music enthusiast with a particular love for hip-hop, grime, and UKG, always on the lookout for the latest tracks and artists.",
+        "width": 400,
+        "height": 400
+    },
+    {
+        "id": 2,
+        "src": "/images/hobbies/hero-instagram.png",
+        "title": "Holidays",
+        "description": "A dedicated family man who enjoys spending quality time with his wife and son on holiday, exploring new destinations and creating lasting memories.",
+        "width": 250,
+        "height": 250
+    },
+    {
+        "id": 3,
+        "src": "/images/hobbies/hero-astronaut.png",
+        "title": "Football",
+        "description": "A lifelong football fan and proud supporter of MK Dons, who loves nothing more than cheering on his team at the stadium and analyzing their performance with fellow fans.",
+        "width": 400,
+        "height": 400
+    }
+]

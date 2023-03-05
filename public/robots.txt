@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://blocklimax.netlify.app//sitemap.xml
